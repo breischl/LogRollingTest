@@ -1,0 +1,1 @@
+﻿.\handle.exe -a | select-string "LogRollingTest.*.log"
